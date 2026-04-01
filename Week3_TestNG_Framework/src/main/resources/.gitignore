@@ -1,0 +1,23 @@
+# Configuration / Secrets
+src/test/resources/config.properties
+
+# Eclipse Specific Files
+.metadata/
+.settings/
+.classpath
+.project
+
+# Build & Test Reports (Generated files)
+target/
+test-output/
+bin/
+
+# OS Specific
+Thumbs.db
+.DS_Store
+
+.metadata/
+Capgemini/
+target/
+test-output/
+config.properties

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-18T09:13:58 IST" name="Default suite" finished-at="2026-03-18T09:13:58 IST" duration-ms="125">
+    <groups>
+    </groups>
+    <test started-at="2026-03-18T09:13:58 IST" name="Default test" finished-at="2026-03-18T09:13:58 IST" duration-ms="125">
+      <class name="dataProviderEx.Dp_Ex">
+        <test-method signature="BookingTest(java.lang.String,java.lang.String)[pri:0, instance:dataProviderEx.Dp_Ex@5876a9af]" started-at="2026-03-18T09:13:58 IST" name="BookingTest" data-provider="dataProvider_BookingTicket" finished-at="2026-03-18T09:13:58 IST" duration-ms="16" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MP]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookingTest -->
+        <test-method signature="BookingTest(java.lang.String,java.lang.String)[pri:0, instance:dataProviderEx.Dp_Ex@5876a9af]" started-at="2026-03-18T09:13:58 IST" name="BookingTest" data-provider="dataProvider_BookingTicket" finished-at="2026-03-18T09:13:58 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UP]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KERALA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookingTest -->
+        <test-method signature="BookingTest(java.lang.String,java.lang.String)[pri:0, instance:dataProviderEx.Dp_Ex@5876a9af]" started-at="2026-03-18T09:13:58 IST" name="BookingTest" data-provider="dataProvider_BookingTicket" finished-at="2026-03-18T09:13:58 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KARNATAKA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DELHI]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookingTest -->
+        <test-method signature="BookingTest(java.lang.String,java.lang.String)[pri:0, instance:dataProviderEx.Dp_Ex@5876a9af]" started-at="2026-03-18T09:13:58 IST" name="BookingTest" data-provider="dataProvider_BookingTicket" finished-at="2026-03-18T09:13:58 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GOA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[PONDICHERRY]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookingTest -->
+        <test-method signature="BookingTest(java.lang.String,java.lang.String)[pri:0, instance:dataProviderEx.Dp_Ex@5876a9af]" started-at="2026-03-18T09:13:58 IST" name="BookingTest" data-provider="dataProvider_BookingTicket" finished-at="2026-03-18T09:13:58 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GUJARAT]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TELANGANA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookingTest -->
+      </class> <!-- dataProviderEx.Dp_Ex -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

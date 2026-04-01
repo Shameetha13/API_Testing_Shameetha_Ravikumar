@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-12T10:38:51 IST" name="Default suite" finished-at="2026-03-12T10:38:57 IST" duration-ms="5841">
+    <groups>
+    </groups>
+    <test started-at="2026-03-12T10:38:51 IST" name="Default test" finished-at="2026-03-12T10:38:57 IST" duration-ms="5841">
+      <class name="com.fakerestapi.users.CreateUser">
+        <test-method signature="createUserTest()[pri:0, instance:com.fakerestapi.users.CreateUser@8dbdac1]" started-at="2026-03-12T10:38:51 IST" name="createUserTest" finished-at="2026-03-12T10:38:57 IST" duration-ms="5741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+      </class> <!-- com.fakerestapi.users.CreateUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
