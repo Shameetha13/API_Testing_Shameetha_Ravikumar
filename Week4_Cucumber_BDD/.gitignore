@@ -1,0 +1,17 @@
+# Secrets
+config.properties
+
+# Eclipse Workspace files
+.metadata/
+.settings/
+.classpath
+.project
+
+# Build folders
+target/
+bin/
+
+# Other personal folders
+Capgemini/
+fakeRestAPIStep/
+fakeRestAPISteps/
